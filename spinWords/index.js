@@ -10,6 +10,7 @@ function spinWords(string) {
     }
     result = newString.join(" ");
   });
+
   return result;
 }
 
